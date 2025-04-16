@@ -17,8 +17,6 @@ You will:
 - Build a simple frontend with custom views and URLs.
 - Generate test data using the Faker and Random libraries.
 
----
-
 ### 🚀 Getting Started
 
 #### 1. Set up a virtual environment and install dependencies
