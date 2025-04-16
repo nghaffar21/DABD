@@ -19,7 +19,7 @@ You will:
 
 ### 🚀 Getting Started
 
-#### 1. Set up a virtual environment and install dependencies
+#### Set up a virtual environment and install dependencies
 
 ```bash
 python3 -m venv venv
