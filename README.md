@@ -3,8 +3,8 @@ This is a repository for my DABD(Design and Administration of Databases) course.
 
 This project is part of the DABD lab series. It consists of building a web server using Django and an ORM (Object Relational Mapping) system to manage products, variants, and categories.
 
-## Lab6
-## 🧰 Project Overview
+### Lab6
+### 🧰 Project Overview
 
 You will:
 
@@ -18,9 +18,9 @@ You will:
 
 ---
 
-## 🚀 Getting Started
+### 🚀 Getting Started
 
-### 1. Set up a virtual environment and install dependencies
+#### 1. Set up a virtual environment and install dependencies
 
 ```bash
 python3 -m venv venv
