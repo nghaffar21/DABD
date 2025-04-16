@@ -11,3 +11,4 @@ db.sqlite3
 *.idea
 *.vscode
 
+lib64/
