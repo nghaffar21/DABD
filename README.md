@@ -1,10 +1,11 @@
 ## Design and Administration of Databases
 This is a repository for my DABD(Design and Administration of Databases) course. I only upload the more interesting laboratory sessions.
 
-This project is part of the DABD lab series. It consists of building a web server using Django and an ORM (Object Relational Mapping) system to manage products, variants, and categories.
-
 ### Lab6
+---
 ### 🧰 Project Overview
+
+It consists of building a web server using Django and an ORM (Object Relational Mapping) system to manage products, variants, and categories.
 
 You will:
 
